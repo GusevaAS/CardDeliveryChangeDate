@@ -10,10 +10,6 @@ import java.util.Random;
 
 public class DataGenerator {
 
-//    static {
-//        new Faker(new Locale("ru"));
-//    }
-
     private DataGenerator() {
     }
 
